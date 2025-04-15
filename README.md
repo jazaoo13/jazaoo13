@@ -28,10 +28,10 @@
 ---
 
 #### 🚀 Currently Learning
-- Advanced data pipelines with Airflow and Spark
-- Deep Learning for audio and image analysis
-- Deployment and monitoring of ML models in production
-
+- Deep Learning for image analysis
+- Quantitative Methods (applied math & optimization)
+- Computational Intelligence (heuristics & metaheuristics)
+  
 ---
 
 #### 📫 Contact
