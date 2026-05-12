@@ -1,40 +1,46 @@
 ### 👋 Hi, I'm Dieyson
 
-🎓 **Computer Engineer** & MSc student in **Production and Systems Engineering**  
-🧠 Focused on **Generative AI**, with strong interest in **Data Science**, **Data Engineering**, and **Machine Learning**  
-⚙️ Experienced in **industrial automation**, **embedded systems**, and **system integration**  
+🛠️ **Backend Engineer** with 5+ years building production-grade systems in Python  
+🎓 **Computer Engineer** & M.Sc. student in **Production and Systems Engineering** — UTFPR  
+🧠 Focused on **backend architecture**, with strong interest in **AI integration** and **distributed systems**  
 
 ---
 
 #### 🔍 About Me
-- Enthusiastic about applied intelligence and automation
-- Passionate about learning and building practical AI solutions
-- Currently researching CNNs for identifying pollen grains from microscopic images
+
+- Specialized in fault-tolerant distributed architectures and high-performance REST APIs
+- Experienced in owning the full dev cycle — architecture, implementation, and deployment
+- Currently exploring LLMs and applied AI integration in backend systems
 
 ---
 
 #### 📂 Pinned Projects
-- **ETLScanBus** – ETL system using SQL and sockets to integrate FARO scanner with ERP systems
-- **Projeto_Oficina_Integracao** – Real-time stock monitoring system using ESP32, cameras, scale, and a Vue.js web dashboard
+
+- **ETLScanBus** – ETL system using SQL and sockets to integrate external hardware with ERP systems
+- **Projeto_Oficina_Integracao** – Real-time stock monitoring system with REST API, cameras, and a Vue.js web dashboard
 
 ---
 
 #### 🛠️ Tech Stack
-- **Languages**: Python, C/C++, SQL, JavaScript
-- **Frameworks**: Flask, Vue.js
-- **Tools**: Git, Docker, Linux, VBA
-- **Other**: PLCs, HMIs, OpenCV, PyTorch, Scikit-learn
+
+- **Languages**: Python, SQL, JavaScript, C++
+- **Frameworks**: FastAPI, Flask, Vue.js
+- **Databases**: PostgreSQL, Redis, SQLite
+- **Tools**: Git, Docker, Linux
+- **AI/ML**: PyTorch, Vision Transformers, BERT, YOLO, LangChain
 
 ---
 
 #### 🚀 Currently Learning
-- Deep Learning for image analysis
-- Quantitative Methods (applied math & optimization)
-- Computational Intelligence (heuristics & metaheuristics)
-  
+
+- LLMs and applied AI for backend systems
+- Distributed systems patterns
+- Synthetic data generation for Deep Learning
+
 ---
 
 #### 📫 Contact
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/DieysonRuthes)
 - 📬 [dieyson.ruthes@gmail.com](mailto:dieyson.ruthes@gmail.com)
 
