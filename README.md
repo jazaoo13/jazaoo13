@@ -16,8 +16,8 @@
 
 #### 📂 Pinned Projects
 
-- **ETLScanBus** – ETL system using SQL and sockets to integrate external hardware with ERP systems
-- **Projeto_Oficina_Integracao** – Real-time stock monitoring system with REST API, cameras, and a Vue.js web dashboard
+- **[machine-data-integration](https://github.com/jazaoo13/machine-data-integration)** – Industrial integration for tube-bending machines: 3D-inspection data (PolyWorks) turned into automatic corrections pushed to the machines over TCP sockets, with resilient ERP sync (outbox + retries), versioned SQLite migrations, web dashboard with trend charts, tests and CI
+- **[Projeto_Oficina_Integracao](https://github.com/jazaoo13/Projeto_Oficina_Integracao)** – Real-time stock monitoring system with REST API, cameras, and a Vue.js web dashboard
 
 ---
 
